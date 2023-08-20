@@ -1,4 +1,5 @@
 # Hello! People 🌏
+<img src=https://github.com/Sirimak-W/Sirimak-W/blob/main/banner_woratanon.png>
 As a data-driven individual with a passion for working with and analyzing data, 
 I am constantly seeking opportunities for learning and growth. 
 Believes that the combination of information and knowledge can lead to powerful insights and solutions. 
